@@ -10,3 +10,6 @@ A Google Chrome extention that displays a summary of the article on the current 
 Installation: 
 - download or clone 
 - follow the instructions [here](https://developer.chrome.com/extensions/getstarted#unpacked)
+
+
+It uses [my own version](https://github.com/petre2dor/PyTeaser) of [PyTeaser](https://github.com/xiaoxu193/PyTeaser). Many thanks to @xiaoxu193. 
